@@ -10,4 +10,5 @@
     * Antropometrik Bilgi : Kilo, Boy
 * Aynı zamanda da verisetinde eksik değerlerin olduğu sütunlar blulunmaktadır.(1) Bunları tamamlamak için hangi methodoloji kullanıcağıma karar vercicem EDA kısmında
 * Verisetindeki sütunların bazıları kategorik bazıları ise sayısal verilerden oluşmaktadır. Bu sütunları modellemeye hazır hale getirmek için bazı ön işlemler yapmam gerekecek.
-* 
+* Veri setinde tekrara düşen veri de bulunmamaktadır. Bu durumda veri setindeki verilerin benzersiz olduğunu söyleyebilirim.
+* Veri setindeki sütunların bazıları birbiriyle ilişkili olabilir. Bu durumda veri setindeki sütunlar arasında korelasyon analizi yapmam gerekecek.
