@@ -35,6 +35,18 @@ You can install these libraries using pip:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the Notebook: Open the Jupyter Notebook to explore the analysis and preprocessing steps:
-```bash
+   ```bash
    jupyter notebook EDA.ipynb
-  
+4.Check Preprocessed Data: The preprocessed dataset is included and ready for use in further steps like feature selection and model training.
+
+## Future Work
+* Model Training: The preprocessed data can now be used to build predictive models for drug side effects.
+* Feature Selection: Further analysis to refine and select the most important features for modeling.
+* Evaluation: Train, evaluate, and optimize various machine learning models to predict side effects.
+
+## Author
+Ela Nur ALP   
+Email : elanur714@gmail.com
+
+
+
