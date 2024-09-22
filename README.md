@@ -25,3 +25,16 @@ The final dataset is well-structured and ready for model training. Key features 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/elanuralp/PusulaProject.git
+2. **Install dependencies**: Make sure to have the following libraries installed:
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scikit-learn
+You can install these libraries using pip:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+3. Run the Notebook: Open the Jupyter Notebook to explore the analysis and preprocessing steps:
+```bash
+   jupyter notebook EDA.ipynb
+  
